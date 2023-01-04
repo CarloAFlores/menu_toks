@@ -30,14 +30,15 @@ export default {
 
 <style scoped>
 .modal{
-    background: gray;
+    background: rgb(51, 48, 48);
     height: 200px;
     width: 500px;
-    border-radius: 20px;
+    border-radius: 30px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    color: white;
     font-family: 'Ubuntu', sans-serif;
 
 }
@@ -55,6 +56,7 @@ button{
     width: 150px;
     border-radius: 20px;
     font-family: 'Ubuntu', sans-serif;
+    color: white;
 }    
 
 @media screen and (max-width:500px){

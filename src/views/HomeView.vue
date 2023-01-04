@@ -1,7 +1,9 @@
 <template>
+<!--Se utlizo un componente para la creacion del modal -->
   <ModalCiudad class="modal" />
   <div class="home">
     <h2>Estar aqui es mejor</h2>
+<!--Al pulsar el boton por ahora nos mandara a una direccion sin contenido -->
     <router-link :to="{name:'about'}" class="Boton">MENU</router-link>
   </div>
 </template>
@@ -16,6 +18,9 @@ export default {
 </script>
 
 <style scoped>
+/* En este caso se utilizo el diplay en direccion de columna
+y posteriormente se ajusto para que la informacion quedara en 
+un  espacio centrado */
 .home{
   background-image: url('@/assets/Fondo.jpg');
   display: flex;
@@ -24,9 +29,11 @@ export default {
   align-items: center;
   height: 700px;
   font-family: 'Ubuntu', sans-serif;
+  color: white;
 
 }
-
+/*El componente importado tambien se le asigno una clase
+para que este pueda seguir al usuario*/
 .modal{
   position: fixed;
   margin-left: 30%;
@@ -42,6 +49,8 @@ export default {
   font-family: 'Ubuntu', sans-serif;
 
 }
+/*Por ultimo tenemos las confiduraciones para dispositivos moviles
+donde se modifico casi en su mayoria los tamaños*/
 @media screen and (max-width:500px){
   .home{
     background-image: url('@/assets/Fondo.jpg');
