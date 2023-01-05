@@ -35,7 +35,7 @@ un  espacio centrado */
   font-family: 'Ubuntu', sans-serif;
   color: white;
   position:static;
-  height: 41rem;
+  height: 46rem;
 }
 
 .homedos{
@@ -88,7 +88,7 @@ donde se modifico casi en su mayoria los tamaños*/
   .modal{
     width: 300px;
     height: 200px;
-    margin-left:10%;
+    margin-left:1%;
     margin-top: 80%;
   }
   .logo{
