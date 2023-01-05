@@ -5,7 +5,7 @@
         <div class="ubicacion_uno">
             <div class="ubicacion_dos">
                 <img src="@/assets/marcador.png" alt="nose">
-                <h3>Calle: ***************</h3>
+                <h3>Calle me pican los cocos</h3>
             </div>
         </div>
     </button>
@@ -16,7 +16,7 @@
             </div>
         </button>
 
-        <button class="boton item2">
+        <button class="boton item2" @click="confirmar=false">
             <div>
                 <div>No</div>
             </div>
@@ -39,25 +39,25 @@ export default {
 }
 </script>
 
-<style lang="scss">
+<style lang="scss" scoped>
 .modal{
     background: linear-gradient(180deg,#2f2f30,#262628);
     width: 30rem;
-    height: 17rem;
+    height: 15rem;
     border-radius: 30px;
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: space-evenly;
     color: white;
     font-family: 'Ubuntu', sans-serif;
 }
 
 .ubicacion{
     background: linear-gradient(180deg,#2f2f30,#262628);
-    margin-left: 30px;
+    margin-left: 2rem;
     border: none;
     width: 25rem;
-    border-radius: 20px;
+    border-radius: 1rem;
     font-family: 'Ubuntu', sans-serif;
     color: white;
     cursor: pointer;
@@ -88,7 +88,7 @@ export default {
 }
 
 .boton{
-    min-width: 88px;
+    min-width: 8rem;
     height: 36px;
     margin: 6px 8px;
     border-radius: 20px;
@@ -107,7 +107,7 @@ export default {
 }
 .item1:hover{
     background: rgb(206, 154, 59);
-    transition: .4s;
+    transition: 1s;
 }
 .item2{
     background: linear-gradient(rgb(47, 47, 48) 0%, rgb(38, 38, 40) 100%);
@@ -122,7 +122,6 @@ export default {
 button{
     width: 90px;
 }
-}
 img{
     width: 20px;
     height: 20px;
@@ -134,27 +133,13 @@ img{
 .ubicacion{
     width: 15rem;
 }
-
+.ubicacion_uno{
+    width: 15rem;
+}
 .ubicacion_dos{
     width: 13rem;
-    margin-left: -35%;
+    margin-left: 1%;
 }
-.item1:hover{
-    background: rgb(206, 154, 59);
-    transition: .4s;
-}
-.item2:hover{
-    background: #737377;
-    transition: 0.4s;
-}
-
-.item1:hover{
-    background: rgb(206, 154, 59);
-    transition: .4s;
-}
-.item2:hover{
-    background: #737377;
-    transition: 0.4s;
 }
 
 </style>
