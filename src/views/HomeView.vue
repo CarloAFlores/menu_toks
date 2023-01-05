@@ -35,7 +35,7 @@ un  espacio centrado */
   font-family: 'Ubuntu', sans-serif;
   color: white;
   position:static;
-  height: 46rem;
+  height: 45rem;
 }
 
 .homedos{
@@ -55,7 +55,7 @@ un  espacio centrado */
 para que este pueda seguir al usuario*/
 .modal{
   position: fixed;
-  margin-left: 30%;
+  margin-left: 26%;
   margin-top: 20%;
 /*  */
 }
@@ -88,7 +88,7 @@ donde se modifico casi en su mayoria los tamaños*/
   .modal{
     width: 300px;
     height: 200px;
-    margin-left:1%;
+    margin-left:9.5%;
     margin-top: 80%;
   }
   .logo{
