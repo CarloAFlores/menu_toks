@@ -5,7 +5,7 @@
         <div class="ubicacion_uno">
             <div class="ubicacion_dos">
                 <img src="@/assets/marcador.png" alt="nose">
-                <h3>Calle me pican los cocos</h3>
+                <h3>Calle los cocos </h3>
             </div>
         </div>
     </button>
