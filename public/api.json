@@ -1,0 +1,123 @@
+[
+    {
+        "nombre":"Aguascalientes",
+        "id":1,
+        "sucursale":[
+            
+                "Aguascalientes",
+                "Aguascalientes Universidad",
+                "Espacio Aguascalientes"
+            
+        ]
+    },
+    {
+        "nombre":"Baja California",
+        "id":2,
+        "sucursale":[
+            
+                "Otay Tijuana",
+                "Tijuana"
+            
+        ]
+    },
+    {
+        "nombre":"Campache",
+        "id":3,
+        "sucursale":[
+            
+                "Galerias Campeche",
+                "Zentralia cd. Del Carmen"
+            
+        ]
+    },
+    {
+        "nombre":"Chiapas",
+        "id":4,
+        "sucursale":[
+            
+                "Tapachula",
+                "Tuxtla",
+                "Tuxtla Diana"
+            
+        ]
+    },
+    {
+        "nombre":"CDMX",
+        "id":5,
+        "sucursale":[
+            
+                "Aeropuerto T2",
+                "Alamdeda",
+                "Arenal",
+                "Barranca del Muerto"
+
+            
+        ]
+    },
+    {
+        "nombre":"Coahuila",
+        "id":6,
+        "sucursale":[
+            "Parque Centro Saltillo",
+            "Saltillo"
+
+        ]
+    },
+    {
+        "nombre":"Estado de Mexico",
+        "id":7,
+        "sucursale":[
+            
+                "Alfredo del Mazo",
+                "Anahuac",
+                "Aragon",
+                "Arboledas"
+            
+        ]
+    },
+    {
+        "nombre":"Guanajuato",
+        "id":8,
+        "sucursale":[
+            
+                "Celaya",
+                "Leon",
+                "Leon Sur",
+                "Leon Torres"
+            
+        ]
+    },
+    {
+        "nombre":"Guerrero",
+        "id":9,
+        "sucursale":[
+            
+                "Acapulco Costera",
+                "Acapulco Cuauhtemoc",
+                "Acapulco Diamante"
+            
+        ]
+    },
+    {
+        "nombre":"Hidalgo",
+        "id":10,
+        "sucursale":[
+            
+                "Pachuca",
+                "Pachuca Colosio"
+            
+        ]
+    },
+    {
+        "nombre":"Jalisco",
+        "id":11,
+        "sucursale":[
+            
+                "Circuvalacion",
+                "Minerva",
+                "Oblatos",
+                "Tepeyac"
+            
+        ]
+    }
+]

@@ -1,0 +1,1279 @@
+[
+    {
+        "nombre":"desayuno del dia",
+        "id":1,
+        "categoria":[
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/FIBRA_Y_PROTEINA_ENERO_min.1672347929.jpg",
+                "nombre_categoria":"Fibra y Proteina",
+                "id":1,
+                "precio": 165
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/REGIOMONTANOS_min.1672347394.jpg",
+                "nombre_categoria":"Los Regiomontanos",
+                "id":2,
+                "precio": 125
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/CHORIQUILES_CON_PECHUG_CROCANTE_min.1672348113.jpg",
+                "nombre_categoria":"Chilaquiles con Pechuga Crocante",
+                "id":3,
+                "precio": 185
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/DESAYUNO_HIDALGUENSE_min.1672347253.jpg",
+                "nombre_categoria":"Desayuno Hidalguense",
+                "id":4,
+                "precio": 99
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/ASADA_OAXAQUENNA_min.1672348240.jpg",
+                "nombre_categoria":"Asada Oaxaqueña",
+                "id":5,
+                "precio": 205
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/ENCHILADAS_ESTILO_URUAPAN_min.1672347540.jpg",
+                "nombre_categoria":"Enchiladas Estilo Uruapan",
+                "id":6,
+                "precio": 145
+            }
+        ]
+    },
+    {
+        "nombre":"Especialidad del dia",
+        "id":2,
+        "categoria":[
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/LA_OAXAQUENNA_min.1671461557.jpg",
+                "nombre_categoria":"La Oaxaqueña",
+                "id":1,
+                "precio": 189
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/SALMON_A_LAS_FINAS_HIERBAS_min.1670257154.jpg",
+                "nombre_categoria":"Salmon A Las Finas Hierbas",
+                "id":2,
+                "precio": 299
+            }      
+        ]
+    },
+    {
+        "nombre":"Especialidad de temporada",
+        "id":3,
+        "categoria":[
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/DESAYUNO_CANDELARIA_min.1673853730.jpg",
+                "nombre_categoria":"Desayuno Candelaria",
+                "id":1,
+                "precio": 169
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/DESAYUNO_PUREPECHA_min.1673854594.jpg",
+                "nombre_categoria":"Desayuno Purepecha",
+                "id":2,
+                "precio": 175
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/TAMAL_JALICIENSE_AL_GRATIN_min.1673854952.jpg",
+                "nombre_categoria":"Tamal Jalisciense Al Gratin",
+                "id":3,
+                "precio": 175
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/XIQUENNO_min.1673855403.jpg",
+                "nombre_categoria":"Xiqueño",
+                "id":4,
+                "precio": 179
+            }
+        ]
+    },
+    {
+        "nombre":"Comidas del dia",
+        "id":4,
+        "categoria":[
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/ENCHILADAS_QUERETANAS_AL_GRATIN_min.1672348340.jpg",
+                "nombre_categoria":"Enchiladas Queretanas Al Gratin",
+                "id":1,
+                "precio": 149
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/AL_ESTILO_DEL_CHEF_min.1672348991.jpg",
+                "nombre_categoria":"Escalopas Al Estilo Del Chef",
+                "id":2,
+                "precio": 219
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/COMAL_PLACERO_min.1672349084.jpg",
+                "nombre_categoria":"Comal Placero",
+                "id":3,
+                "precio": 239
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/PECHUGA_CROCANTE_AL_COCO_min.1672348914.jpg",
+                "nombre_categoria":"Pechuga Crocante Al Coco",
+                "id":4,
+                "precio": 189
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/ASADA_MILPA_ALTA_min.1672348571.jpg",
+                "nombre_categoria":"Asada Milpa Alta ",
+                "id":5,
+                "precio": 169
+            }
+        ]
+    },
+    {
+        "nombre":"Noches toks",
+        "id":5,
+        "categoria":[
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/2175_22_07_FOTOS_MD_DELIVERY_AGO_MENU_DIGITAL_PLECA_ESPANOL_MAZAHUAS_CACAHUATE_min.1659326233.jpg",
+                "nombre_categoria":"Mazahuas Al Cacahuate",
+                "id":1,
+                "precio": 99
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/1625_21_11_FOTOS_DICIEMBRE_DELIVERY_500x500_ESPANOL_CORONA_TACOS_min.1637876116.jpg",
+                "nombre_categoria":"Corona De Tacos(9 pzas)",
+                "id":2,
+                "precio": 219
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/SOPES_RANCHEROS_min.1669773956.jpg",
+                "nombre_categoria":"Sopes Rancheros",
+                "id":3,
+                "precio": 89
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/03_ENSALADA_AL_JENGIBRE_CON_PECHUGA_min.1643677257.jpg",
+                "nombre_categoria":"Ensalada al jengibre con Pechuga",
+                "id":4,
+                "precio": 109
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/04_LAS_BORRACHAS_AL_GRATIN_min.1643677386.jpg",
+                "nombre_categoria":"Las Borrachas Al Gratin",
+                "id":5,
+                "precio": 129
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/06_ANTOJO_MEXICANO_min.1648688035.jpg",
+                "nombre_categoria":"Antojo Mexicano",
+                "id":6,
+                "precio": 199
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/2038_22_05_FOTOS_MENU_DIG_DELIVERY_JUNIO_ESPANOL_HAMBURGUESA_CRISPY_min.1654021024.jpg",
+                "nombre_categoria":"Hamburguesa Crispy",
+                "id":7,
+                "precio": 149
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/Cervezas_Tarro_min.1602480614.jpg",
+                "nombre_categoria":"Cerveza 2x1",
+                "id":8,
+                "precio": 67
+            }
+        ]
+    },
+    {
+        "nombre":"Sabores de la region uno",
+        "id":6,
+        "categoria":[
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/CHALUPAS_DE_CARNITAS_TATEMADAS_min.1650670200.jpg",
+                "nombre_categoria":" Chalupas de Carnitas Tatemadas",
+                "id":1,
+                "precio": 169
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/CHILE_RELLENO_ATLIXCO_min.1650670304.jpg",
+                "nombre_categoria":"Chile Relleno Atlixco",
+                "id":2,
+                "precio": 169
+            }
+
+        ]
+    },
+    {
+        "nombre":"Cafes y bebidas calientes",
+        "id":7,
+        "categoria":[
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/caf%C3%A9-americano_min_min.1594309599.jpg",
+                "nombre_categoria":"Cafe Americano",
+                "id":1,
+                "precio": 39
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/caf%C3%A9-americano_min_min.1594309599.jpg",
+                "nombre_categoria":"Cafe Descafeinado",
+                "id":2,
+                "precio": 39
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/Capucchino_taza_toks%20(3)_min.1660060065.jpg",
+                "nombre_categoria":"Capuchinos",
+                "id":3,
+                "precio": 64
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/Chai%20(1)_min.1629083917.jpg",
+                "nombre_categoria":"Te Chai",
+                "id":4,
+                "precio": 63
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/MOKA_min.1629084023.jpg",
+                "nombre_categoria":"Moka Mexciano",
+                "id":5,
+                "precio": 63
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/Chocolate_caliente_min.1602470785.jpg",
+                "nombre_categoria":"Chocolate Caliente Tradicional",
+                "id":6,
+                "precio": 64
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/chocolate%20(1)_min.1629084047.jpg",
+                "nombre_categoria":"Chocolate Caliente Toks a Mano ",
+                "id":7,
+                "precio": 65
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/Expresso_min.1604087227.jpg",
+                "nombre_categoria":"Espressos",
+                "id":8,
+                "precio": 41
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/0.1645416799.jpg",
+                "nombre_categoria":"Tes Calientes",
+                "id":9,
+                "precio": 47
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/Frappe_min.1629084138.jpg",
+                "nombre_categoria":"Frappes",
+                "id":10,
+                "precio": 73
+            }
+        ]
+    },
+    {
+        "nombre":"Jugos y frutas",
+        "id":8,
+        "categoria":[
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/jugos_min_min.1594311712.jpg",
+                "nombre_categoria":"Jugos Naturales",
+                "id":1,
+                "precio": 62
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/Jugo_combinado_min.1629076199.jpg",
+                "nombre_categoria":"Jugos Combinados",
+                "id":2,
+                "precio": 72
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/930_20_10_FOTOS_DIGITAL_DIF_FORMATOS_COPA_ENERGETICA_min.1602469590.jpg",
+                "nombre_categoria":"Copa de Yoghurt Energetica",
+                "id":3,
+                "precio": 109
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/Orden%20de%20fruta_min.1629076371.jpg",
+                "nombre_categoria":"Orden de Frutas",
+                "id":4,
+                "precio": 71
+            }
+
+        ]
+    },
+    {
+        "nombre":"Despierta tu antojo",
+        "id":9,
+        "categoria":[
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/CROISSANT_CHOCOLATE_Y_CROCANTE_AVELLANA_min.1673855712.jpg",
+                "nombre_categoria":"Croissant De Avella con Chocolate",
+                "id":1,
+                "precio":35
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/Bisquets%20(2)_min.1629082487.jpg",
+                "nombre_categoria":"Bisquets con Mermelada",
+                "id":2,
+                "precio":91
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/Concha-vainilla%20(1)_min.1597368511.jpg",
+                "nombre_categoria":"Pan dulce Horneado",
+                "id":3,
+                "precio":33
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/2113_22_06_PANTALLAS_MAS_COM_PLAZAS_JULIO_MEN%C3%9A_DIGITAL_2560x1600_CROISSANT_NUTELA_min.1656628712.jpg",
+                "nombre_categoria":"Croissant De Avella con NUTELLA",
+                "id":4,
+                "precio":34
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/PAN_MANZANA%20(1)_min.1601051120.jpg",
+                "nombre_categoria":"Capricho de Manzana",
+                "id":5,
+                "precio":33
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/930_20_10_FOTOS_DIGITAL_DIF_FORMATOS_HOTCAKES_3_PZAS_min.1602454503.jpg",
+                "nombre_categoria":"Hot cakes",
+                "id":6,
+                "precio":119
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/930_20_10_FOTOS_DIGITAL_DIF_FORMATOS_HOTCAKES_3_PZAS_min.1602454519.jpg",
+                "nombre_categoria":"Paquete Hot Cakes",
+                "id":7,
+                "precio":169
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/pan_francEs%20(3)_min.1629077008.jpg",
+                "nombre_categoria":"Paquete Tostado Frances",
+                "id":8,
+                "precio":169
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/molletes_Naturales_min.1594319883.jpg",
+                "nombre_categoria":"Molletes Naturales",
+                "id":9,
+                "precio":99
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/molletes_min.1594319895.jpg",
+                "nombre_categoria":"Molletes Toks",
+                "id":10,
+                "precio":143
+            }
+        ]
+    },
+    {
+        "nombre":"Huevos y omelettes",
+        "id":10,
+        "categoria":[
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/Huevos_al_gusto_min.1594321072.jpg",
+                "nombre_categoria":"Huevos al Gusto",
+                "id":1,
+                "precio":163
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/930_20_10_FOTOS_DIGITAL_DIF_FORMATOS_HUEVOS_ALBAniL_min.1602454612.jpg",
+                "nombre_categoria":"Huevos al Albañil con Arrachera",
+                "id":2,
+                "precio":209
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/2113_22_06_PANTALLAS_MAS_COM_PLAZAS_JULIO_MEN_DIGITAL_2560x1600_HUEVOS_HACIENDA_min.1656071591.jpg",
+                "nombre_categoria":"Huevos de la Hacienda",
+                "id":3,
+                "precio":166
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/Huevos_Tarascos%20(1)_min.1629077292.jpg",
+                "nombre_categoria":"Los Tarascos",
+                "id":4,
+                "precio":164
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/Huevos_Toks_min.1594321127.jpg",
+                "nombre_categoria":"Huevos Toks",
+                "id":5,
+                "precio":169
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/930_20_10_FOTOS_DIGITAL_DIF_FORMATOS_OMELETTE_JAMoN_QUESO_min.1602454728.jpg",
+                "nombre_categoria":"Omelette de Jamos y Queso al Gratin",
+                "id":6,
+                "precio":169
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/huevos_del_huerto%20(1)_min.1629077052.jpg",
+                "nombre_categoria":"Huevos del Huerto",
+                "id":7,
+                "precio":165
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/omellete_claras_min.1594321192.jpg",
+                "nombre_categoria":"Omelette de Claras y Espinacas",
+                "id":8,
+                "precio":171
+            }
+        ]
+    },
+    {
+        "nombre":"Almuerzos",
+        "id":11,
+        "categoria":[
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/930_20_10_FOTOS_DIGITAL_DIF_FORMATOS_SABROSITA_min.1602456774.jpg",
+                "nombre_categoria":"Sabrosita",
+                "id":1,
+                "precio":221
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/FILETE_DE_RES_A_LA_MEXICANA%20MD%20JUL%202022_min.1656973603.jpg",
+                "nombre_categoria":"Filete de res a la Mexicana",
+                "id":2,
+                "precio":205
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/Norte%C3%B1o_min.1594330521.jpg",
+                "nombre_categoria":"Norteño",
+                "id":3,
+                "precio":181
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/1537_21_10_FOTOS_NUEVOS_PLATILLOS_MENU_DIGITAL_2560x1600_SOPES_VEGETARIANOS_min.1635143048.jpg",
+                "nombre_categoria":"Sopes Vegetarianos",
+                "id":4,
+                "precio":163
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/pechuga_min.1602457115.jpg",
+                "nombre_categoria":"Pechuga de Pollo con Chilaquiles",
+                "id":5,
+                "precio":203
+            }
+        ]
+    },
+    {
+        "nombre":"Enfrijoladas y Chilaquiles",
+        "id":12,
+        "categoria":[
+            {
+                "imagen":"https://menugrg.com.mx:7443/toks/detalles/1?categoria=1&id_unidad=1&nombre_categoria=Desayunos&img_categoria=%2Fmenudigital%2Fcategorias%2FChilaquiles_Pollo.1604202038.jpg&fondo_categoria=%2Fmenudigital%2Fcategorias%2Ffondo%20mesa%20optimizado.1629216243.jpg",
+                "nombre_categoria":"Enfrijoladas al Gratin",
+                "id":1,
+                "precio":175
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/ENFRIJOLADAS_VEGETARIANAS_MENU_DIGITAL_2560x1600_min.1662039788.jpg",
+                "nombre_categoria":"Enfrijoladas vegetarianas al Gratin",
+                "id":2,
+                "precio":163
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/enfrijoladas_min.1629077572.jpg",
+                "nombre_categoria":"Enfrijoladas Veracruzanas",
+                "id":3,
+                "precio":177
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/Chilachiles_maya_min.1594325537.jpg",
+                "nombre_categoria":"Chilaquiles Mayas",
+                "id":4,
+                "precio":195
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/930_20_10_FOTOS_DIGITAL_DIF_FORMATOS_MENU_DIGITAL_CHILAQUILES_MOLE_min.1602467656.jpg",
+                "nombre_categoria":"Chilaquiles Mazahuas",
+                "id":5,
+                "precio":193
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/chilaquiles_claras_min.1629077801.jpg",
+                "nombre_categoria":"Chilaquiles Verdes con Claras",
+                "id":6,
+                "precio":179
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/Chilaquiles_Al_Gusto_min.1594325563.jpg",
+                "nombre_categoria":"Chilaquiles al Gusto",
+                "id":7,
+                "precio":193
+            }
+        ]
+    },
+    {
+        "nombre":"Postres",
+        "id":13,
+        "categoria":[
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/Recurso%2030_min.1594330267.jpg",
+                "nombre_categoria":"Pastel de Zanahoria",
+                "id":1,
+                "precio":117
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/Big-chocolate-cake-min_min.1594308708.1591747908",
+                "nombre_categoria":"Big Chocolate Cake",
+                "id":2,
+                "precio":115
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/CHOCOAVELLANA_REBANADA_min.1667305921.jpg",
+                "nombre_categoria":"Chocoavellana",
+                "id":3,
+                "precio":85
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/Crepa_helado_min.1594330234.1593739691",
+                "nombre_categoria":"Crepas de Cajeta con Helado de vainilla",
+                "id":4,
+                "precio":109
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/930_20_10_FOTOS_DIGITAL_DIF_FORMATOS_GELATINA_YOGUTH_min.1629084292.jpg",
+                "nombre_categoria":"Gelatina de Yoghurt y Coco",
+                "id":5,
+                "precio":79
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/CHEESECAKE_min.1594330301.jpg",
+                "nombre_categoria":"Cheesecake",
+                "id":6,
+                "precio":105
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/Cheesecake-con-fresas_min.1602469356.jpg",
+                "nombre_categoria":"Cheesecake con fresas",
+                "id":7,
+                "precio":112
+            }
+        ]
+    },
+    {
+        "nombre":"Toks a Mano",
+        "id":14,
+        "categoria":[
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/1688_21_12_FOTO_MOLE_NEGRO_MENU_DIGITAL_2560x1600_min.1640910846.jpg",
+                "nombre_categoria":"Tierra de Moles",
+                "id":1,
+                "precio":109
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/1759_22_01_FOTOS_DELIVERY_2_MENU_DIGITAL_2560x1600_NUEZ_CARAMELIZADA_min.1643679082.jpg",
+                "nombre_categoria":"Nuez caramelizada Leyenda del corazon",
+                "id":2,
+                "precio":119
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/CAFE-CAnADA-AZUL_WHATS_min.1628116759.jpg",
+                "nombre_categoria":"Cafe Caña Azul",
+                "id":3,
+                "precio":109
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/2066_22_05_FOTOS_LIBROS_MD_MENUU_DIGITAL_2560x1600_IMPRIMIENDO_SUENOS_min.1654024894.jpg",
+                "nombre_categoria":"Imprimiendo Sueños",
+                "id":4,
+                "precio":149
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/2066_22_05_FOTOS_LIBROS_MD_MENUU_DIGITAL_2560x1600_TACANA_min.1654024879.jpg",
+                "nombre_categoria":"Libro Tacana",
+                "id":5,
+                "precio":149
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/PROYECTOS_PRODUCTIVOS_2020_MIEL_min.1607660706.jpg",
+                "nombre_categoria":"Miel de Abeja Amuzga",
+                "id":6,
+                "precio":99
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/PROYECTOS_PRODUCTIVOS_GRANOLA_min.1607660732.jpg",
+                "nombre_categoria":"Granola Mazahua",
+                "id":7,
+                "precio":199
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/PROYECTOS_PRODUCTIVOS_2020_CHOCOLATE_min.1607660668.jpg",
+                "nombre_categoria":"Chocolate Artesanal Sierra Morena",
+                "id":8,
+                "precio":79
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/PROYECTOS_PRODUCTIVOS_2020_MOLE_min.1607660688.jpg",
+                "nombre_categoria":"Mole Doña Yolanda",
+                "id":9,
+                "precio":109
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/774_20_05_FOTOS_PARA_MENU_DIGITAL_PROYECTOS_PRODUCTIVOS_MERMELADA_DE_FRESA_min.1600817097.jpg",
+                "nombre_categoria":"Mermelada Santa Rosa",
+                "id":10,
+                "precio":69
+            }
+        ]
+    },
+    {
+        "nombre":"Sabores de la region dos",
+        "id":15,
+        "categoria":[
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/TACOS_DE_CHILE_RELLENO_min.1650670424.jpg",
+                "nombre_categoria":"Tacos de Chile Relleno",
+                "id":1,
+                "precio":161
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/PECHUGA_CHOLULA_min.1650670511.jpg",
+                "nombre_categoria":"Pechuga Cholula",
+                "id":2,
+                "precio":201
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/CECINA_POBLANA_min.1650670646.jpg",
+                "nombre_categoria":"Cecina Poblana",
+                "id":3,
+                "precio":205
+            }
+
+        ]
+    },
+    {
+        "nombre":"Entradas y Tacos",
+        "id":16,
+        "categoria":[
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/Guacamole_min.1594332962.jpg",
+                "nombre_categoria":"Orden de Guacamole",
+                "id":1,
+                "precio":69
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/Papas_Fritas_min.1673025760.jpeg",
+                "nombre_categoria":"Papas Fritas",
+                "id":2,
+                "precio":79
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/Gordi_min.1635260563.jpg",
+                "nombre_categoria":"Gorditas Norteñas",
+                "id":3,
+                "precio":125
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/Queso-fundido_min.1602460884.jpg",
+                "nombre_categoria":"Queso Fundido",
+                "id":4,
+                "precio":115
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/Tacos-milanesa%20DIDI_min.1656969934.jpg",
+                "nombre_categoria":"Tacos de Milanesa al Gratin",
+                "id":5,
+                "precio":175
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/Tacos_pollo_min.1629087262.jpg",
+                "nombre_categoria":"Tacos de pollo",
+                "id":6,
+                "precio":155
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/930_20_10_FOTOS_DIGITAL_DIF_FORMATOS_TACOS_ARRACHERA_CHAMPInONES_min.1602461236.jpg",
+                "nombre_categoria":"Tacos de Arrachera con Champiñones",
+                "id":7,
+                "precio":221
+            }
+        ]
+    },
+    {
+        "nombre":"Sopas y Caldos",
+        "id":17,
+        "categoria":[
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/2113_22_06_PANTALLAS_MAS_COM_PLAZAS_JULIO_MEN_DIGITAL_2560x1600_SOPA_VERDURAS_min.1656071724.jpg",
+                "nombre_categoria":"Sopa de Verduras",
+                "id":1,
+                "precio": 74
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/Sopa_tortilla_min.1594334334.jpg",
+                "nombre_categoria":"Especial de Tortilla",
+                "id":2,
+                "precio": 91
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/Tlalpe%C3%B1o_min.1594334354.jpg",
+                "nombre_categoria":"Caldo Tlalpeño",
+                "id":3,
+                "precio": 86
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/1239_21_05_FOTO_CONSOME_MENu_DIGITAL%20(1)_min.1621968018.jpg",
+                "nombre_categoria":"Consome Ranchero",
+                "id":4,
+                "precio": 77
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/Consom%C3%A9_pollo_min.1594334445.jpg",
+                "nombre_categoria":"Consome con Pechuga y Pollo",
+                "id":5,
+                "precio": 75
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/Sopa_italiana_min.1594334472.jpg",
+                "nombre_categoria":"Sopa del dia",
+                "id":6,
+                "precio": 72
+            }
+        ]
+    },
+    {
+        "nombre":"Ensaladas",
+        "id":18,
+        "categoria":[
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/1822_22_02_FOTO_ENSALADA_ESPINACA_MENU_DIGITAL_MENU_DIGITAL_2560x1600-2.1645416613.jpg",
+                "nombre_categoria":"Espinaca, Arugula y Tocino al Balsamico",
+                "id":1,
+                "precio": 179
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/Ensalada_fibra%20y%20proteina_min.1594335161.jpg",
+                "nombre_categoria":"Alta en Fibra y Proteina",
+                "id":2,
+                "precio": 187
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/Mediterranea_min.1602463312.jpg",
+                "nombre_categoria":"Mediterranea",
+                "id":3,
+                "precio": 187
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/Ensaladas_san%20francisco_min.1602464406.jpg",
+                "nombre_categoria":"San Francisco",
+                "id":4,
+                "precio": 187
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/Orden%20de%20verduras%20a%20la%20parrilla_min.1625529687.jpg",
+                "nombre_categoria":"Orden de Verduras a la Parrilla",
+                "id":5,
+                "precio": 142
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/FRUTAS-CON-QUESO-COTTAGE%20(1)_min.1629087502.jpg",
+                "nombre_categoria":"Frutas con Queso Cottage o Nieve",
+                "id":6,
+                "precio": 143
+            }
+
+
+        ]
+    },
+    {
+        "nombre":"Hamburguesas y Sandwiches",
+        "id":19,
+        "categoria":[
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/CLUB_SANDWICH_min.1664816463.jpg",
+                "nombre_categoria":"Club Sandwich",
+                "id":1,
+                "precio":185
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/PEPITOKS_DE_ARRACHERA_min.1664816536.jpg",
+                "nombre_categoria":"Pepitoks de Arrachera",
+                "id":2,
+                "precio":207
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/HAMBURGUESA_NOT_CHICKEN_min.1666024889.jpg",
+                "nombre_categoria":"Hambusa Not Chicken Crispy",
+                "id":3,
+                "precio":207
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/2113_22_06_PANTALLAS_MAS_COM_PLAZAS_JULIO_MEN_DIGITAL_2560x1600_HAMBURGUESA_VEGETARIANA_NOTCO_min.1656071675.jpg",
+                "nombre_categoria":"Hamburguesa NotBurger",
+                "id":4,
+                "precio":210
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/HAMBURGUESA_DE_PAVO_A_LA_PARRILLA_min.1664816485.jpg",
+                "nombre_categoria":"Hamburguesa de Pavo a la Parrilla",
+                "id":5,
+                "precio":205
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/SANDWICH_MEDITERRANEO_min.1664818143.jpg",
+                "nombre_categoria":"Sandwich Mediterraneo",
+                "id":6,
+                "precio":191
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/HAMBURGUESA_REGIA_min.1664816510.jpg",
+                "nombre_categoria":"Hamburguesa Regia",
+                "id":7,
+                "precio":217
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/SANDWICH_DE_PECHUGA_DE_PAVO_min.1664816572.jpg",
+                "nombre_categoria":"Sandwich de Pechuga de Pavo",
+                "id":8,
+                "precio":185
+            }
+        ]
+    },
+    {
+        "nombre":"Carnes al Grill",
+        "id":20,
+        "categoria":[
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/930_20_10_FOTOS_DIGITAL_DIF_FORMATOS_ARRACHERA_TOKS_min.1602467082.jpg",
+                "nombre_categoria":"Arrachera Estilo Toks",
+                "id":1,
+                "precio":285
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/ASADO%20MIXTO%20(180%20g)_min.1607993878.jpg",
+                "nombre_categoria":"Asado Mixto",
+                "id":2,
+                "precio":247
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/FILETE_DE_RES_A_LA_TAMPIQUENNA_min.1664228520.jpg",
+                "nombre_categoria":"Filete de Res a la Tampiqueña",
+                "id":3,
+                "precio":241
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/Milanesa%20de%20res%20(150%20g)%20al%20gratin_min.1607993967.jpg",
+                "nombre_categoria":"Milanesa de Res al Gratin",
+                "id":4,
+                "precio":233
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/CARNE_DE_RES_A_LA_PARRILLA_min.1664228546.jpg",
+                "nombre_categoria":"Carne de res a la parrilla",
+                "id":5,
+                "precio":209
+            }
+        ]
+    },
+    {
+        "nombre":"Aves",
+        "id":21,
+        "categoria":[
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/930_20_10_FOTOS_DIGITAL_DIF_FORMATOS_SABANA_INVIERNO_min.1602467733.jpg",
+                "nombre_categoria":"Sabana Invierno",
+                "id":1,
+                "precio":209
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/1537_21_10_FOTOS_NUEVOS_PLATILLOS_MENU_DIGITAL_2560x1600-2_PECHUGA_RELLENA_TOKS_min.1635143242.jpg",
+                "nombre_categoria":"Pechuga Rellena Toks",
+                "id":2,
+                "precio":206
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/Pechuga-spicy%20(1)_min.1624982690.jpg",
+                "nombre_categoria":"Pechuga Spicy",
+                "id":3,
+                "precio":206
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/930_20_10_FOTOS_DIGITAL_DIF_FORMATOS_PECHUGA_PARRILLA_min.1602467884.jpg",
+                "nombre_categoria":"Pechuga a la Parrilla",
+                "id":4,
+                "precio":197
+            }
+        ]
+    },
+    {
+        "nombre":"Pesca del dia",
+        "id":22,
+        "categoria":[
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/Pescado-Teriyaki_min.1621952877.jpg",
+                "nombre_categoria":"Salmon Teriyaki",
+                "id":1,
+                "precio":275
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/Pescado-a-la-Mantequilla_min.1621953004.jpg",
+                "nombre_categoria":"Salmon Almendrado",
+                "id":2,
+                "precio":275
+            }
+        ]
+    },
+    {
+        "nombre":"Enchiladas",
+        "id":23,
+        "categoria":[
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/Enchiladas-Toks_min.1594339296.jpg",
+                "nombre_categoria":"Enchiladas Toks",
+                "id":1,
+                "precio":169
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/Enchiladas-de-mole-artesanal_min.1600817345.jpg",
+                "nombre_categoria":"Enchiladas de Mole Artesanal",
+                "id":2,
+                "precio":171
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/Enchiladas-vegetarianas-al-grat%C3%ADn_min.1594339340.jpg",
+                "nombre_categoria":"Enchiladas Vegetarianas al Gratin",
+                "id":3,
+                "precio":165
+            }
+        ]
+    },
+    {
+        "nombre":"Bebidas Refrescantes",
+        "id":24,
+        "categoria":[
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/NARANJADA_min.1594338080.jpg",
+                "nombre_categoria":"Naranjada",
+                "id":1,
+                "precio":54
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/LIMONADA_min.1629086780.jpg",
+                "nombre_categoria":"Limonada",
+                "id":2,
+                "precio":54
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/Coca-Cola-Original-355-ml-Lata%20(3)_min.1629086910.jpg",
+                "nombre_categoria":"Refresco",
+                "id":3,
+                "precio":56
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/Agua_min.1638468078.jpg",
+                "nombre_categoria":"Agua del Dia",
+                "id":4,
+                "precio":59
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/Te%20frio_min.1629083359.jpg",
+                "nombre_categoria":"Te Helado",
+                "id":5,
+                "precio":59
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/…-Ciel-600-ml-PET-NR-min_min.1594338335.1592175410",
+                "nombre_categoria":"Agua Embotellada",
+                "id":6,
+                "precio":40
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/Chocolate_Fr%C3%ADo_min.1594338362.jpg",
+                "nombre_categoria":"Chocolate Tradicional Frio",
+                "id":7,
+                "precio":59
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/Smoothie%20(1)_min.1629082784.jpg",
+                "nombre_categoria":"Smoothies",
+                "id":8,
+                "precio":77
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/malteada%20(2)_min.1629083170.jpg",
+                "nombre_categoria":"Malteadas",
+                "id":9,
+                "precio":85
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/0-1_min.1645457975.jpg",
+                "nombre_categoria":"Tes Frios",
+                "id":10,
+                "precio":47
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/Leche_min.1594338381.jpg",
+                "nombre_categoria":"Leche",
+                "id":11,
+                "precio":43
+            }
+        ]
+    },
+    {
+        "nombre":"Cervezas",
+        "id":25,
+        "categoria":[
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/Tecate-Light_min.1629086468.jpg",
+                "nombre_categoria":"Nacionales",
+                "id":1,
+                "precio":61
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/Heineken%20(1)_min.1613361901.jpg",
+                "nombre_categoria":"Premium",
+                "id":2,
+                "precio":69
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/…AL_CERVEZA_MEDITERRANEA_min.1594338821.1592980760",
+                "nombre_categoria":"Artesanal Mediterranea Light",
+                "id":3,
+                "precio":76
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/…IGITAL_CERVEZA_SANTA_FE_min.1594338843.1592979059",
+                "nombre_categoria":"Artesanal Santa Fe",
+                "id":4,
+                "precio":76
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/774_20_05_FOTOS_PARA_MENU_DIGITAL_MICHELADA_min.1594338864.jpg",
+                "nombre_categoria":"Michelada",
+                "id":5,
+                "precio":21
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/774_20_05_FOTOS_PARA_MENU_DIGITAL_CERVEZAS_Tarro%20preparado_min.1594338903.jpg",
+                "nombre_categoria":"Cubana",
+                "id":6,
+                "precio":25
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/774_20_05_FOTOS_PARA_MENU_DIGITAL_TARRO_MICHELADA%20(2)_min.1608149906.jpg",
+                "nombre_categoria":"Jugo de Tomate, Almeja y especias",
+                "id":7,
+                "precio":35
+            }
+        ]
+    },
+    {
+        "nombre":"Vinos",
+        "id":26,
+        "categoria":[
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/2002_22_05_FOTO_APEROL_MEN%C3%9A_DIGITAL_2560x1600_APEROL2_min.1651861618.jpg",
+                "nombre_categoria":"Aperol Spritz",
+                "id":1,
+                "precio":123
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/Vinos_Nube_min.1594339159.1593738319",
+                "nombre_categoria":"Vino Tinto",
+                "id":2,
+                "precio":129
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/Vino_Blanco_KUIIY_min.1594339180.1592772776",
+                "nombre_categoria":"Vino Blanco",
+                "id":3,
+                "precio":201
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/Sangra_min.1629083103.jpg",
+                "nombre_categoria":"Sangria",
+                "id":4,
+                "precio":105
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/Descorche_min.1594339197.jpg",
+                "nombre_categoria":"Descorche por Botellas",
+                "id":5,
+                "precio":90
+            }
+        ]
+    },
+    {
+        "nombre":"Desayunos",
+        "id":27,
+        "categoria":[
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/2113_22_06_PANTALLAS_MAS_COM_PLAZAS_JULIO_MEN%C3%9A_DIGITAL_2560x1600_CHILAQUILES_SALCHIPULPOS_min.1656650990.jpg",
+                "nombre_categoria":"Chilaquiles con Pulpitoks",
+                "id":1,
+                "precio":105
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/2113_22_06_PANTALLAS_MAS_COM_PLAZAS_JULIO_MEN%C3%9A_DIGITAL_2560x1600_FANTASIA_FRUTAS_min.1656651301.jpg",
+                "nombre_categoria":"Fantasia Frutal",
+                "id":2,
+                "precio":99
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/2113_22_06_PANTALLAS_MAS_COM_PLAZAS_JULIO_MEN%C3%9A_DIGITAL_2560x1600_CHOCO_HOTCAKES_min.1656651163.jpg",
+                "nombre_categoria":"Choco Hot Cakes",
+                "id":3,
+                "precio":89
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/2113_22_06_PANTALLAS_MAS_COM_PLAZAS_JULIO_MEN%C3%9A_DIGITAL_2560x1600_FRANCESITO_FRUTAS_min.1656651418.jpg",
+                "nombre_categoria":"El Francesito",
+                "id":4,
+                "precio":109
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/Molletitos-min_min.1620014385.png",
+                "nombre_categoria":"Molletitoks",
+                "id":5,
+                "precio":95
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/2113_22_06_PANTALLAS_MAS_COM_PLAZAS_JULIO_MEN%C3%9A_DIGITAL_2560x1600_MINI_ENFRIJOLADAS_min.1656654398.jpg",
+                "nombre_categoria":"Mini Enfrijoladas",
+                "id":6,
+                "precio":99
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/2113_22_06_PANTALLAS_MAS_COM_PLAZAS_JULIO_MEN%C3%9A_DIGITAL_2560x1600_REVUELTO_DIVERTIDO_min.1656654635.jpg",
+                "nombre_categoria":"Revuelto Divertido",
+                "id":7,
+                "precio":109
+            }
+        ]
+    },
+    {
+        "nombre":"Comidas",
+        "id":28,
+        "categoria":[
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/MALTEADAS_MARCA_ACME_min.1664185666.jpg",
+                "nombre_categoria":"Malteadas Marca Acme",
+                "id":1,
+                "precio":109
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/2113_22_06_PANTALLAS_MAS_COM_PLAZAS_JULIO_MEN%C3%9A_DIGITAL_2560x1600_MILANESITO_PAPAS_min.1656655928.jpg",
+                "nombre_categoria":"Milanesa Beep Beep",
+                "id":2,
+                "precio":129
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/2113_22_06_PANTALLAS_MAS_COM_PLAZAS_JULIO_MEN%C3%9A_DIGITAL_2560x1600_MINI_PIZZA_HORNEADA_min.1656655389.jpg",
+                "nombre_categoria":"Pizza Super Pizza",
+                "id":3,
+                "precio":135
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/Pollo_Krispy-min_min.1594342133.png",
+                "nombre_categoria":"Crispy Dinamita",
+                "id":4,
+                "precio":115
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/930_20_10_FOTOS_DIGITAL_DIF_FORMATOS_CANIBALITOSjpg_min.1602475326.jpg",
+                "nombre_categoria":"Ñam Ñam de Carne",
+                "id":5,
+                "precio":145
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/2113_22_06_PANTALLAS_MAS_COM_PLAZAS_JULIO_MEN%C3%9A_DIGITAL_2560x1600_MINI_CLUB_SANDWICH_CARITAS_min.1656655786.jpg",
+                "nombre_categoria":"Mini Club de Diversion",
+                "id":6,
+                "precio":139
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/Entomatadas-min_min.1620014480.png",
+                "nombre_categoria":"Proyectil Marca Acme",
+                "id":7,
+                "precio":99
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/Tacos_arrachera-min_min.1594342372.png",
+                "nombre_categoria":"Taquitoks",
+                "id":8,
+                "precio":149
+            }
+        ]
+    },
+    {
+        "nombre":"Agrega Diversion",
+        "id":29,
+        "categoria":[
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/papas_carita_min.1594343066.1592979182",
+                "nombre_categoria":"Orden de Papas",
+                "id":1,
+                "precio":59
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/Malteadas_3_min.1594342519.jpg",
+                "nombre_categoria":"Malteadas Crazy Shake",
+                "id":2,
+                "precio":79
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/2113_22_06_PANTALLAS_MAS_COM_PLAZAS_JULIO_MEN%C3%9A_DIGITAL_2560x1600_FANTASIA_FRUTAS_min.1656677982.jpg",
+                "nombre_categoria":"Fantasia Frutal",
+                "id":3,
+                "precio":79
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/Consom%C3%A9%20de%20pollo_min.1594343022.jpg",
+                "nombre_categoria":"Consome con Pechuga de Pollo y Arroz",
+                "id":4,
+                "precio":55
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/Sopa%20de%20frideo_min.1594343042.jpg",
+                "nombre_categoria":"Sopa de Fideo",
+                "id":5,
+                "precio":56
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/Bola%20de%20helado_min.1594343106.1592979363",
+                "nombre_categoria":"Bola de Helado",
+                "id":6,
+                "precio":29
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/limonada_infantil_min.1594343157.1592979206",
+                "nombre_categoria":"Naranja o Limonada",
+                "id":7,
+                "precio":54
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/1530_21_10_AGUA_DIa__RETOQUE_FOTO_min.1634071444.jpg",
+                "nombre_categoria":"Agua del Dia",
+                "id":8,
+                "precio":36
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/Coca_Cola_min.1604087210.jpg",
+                "nombre_categoria":"Refresco",
+                "id":9,
+                "precio":56
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/jugo_chico_naranja_min.1594343184.1592979237",
+                "nombre_categoria":"Jugo de Naranja",
+                "id":10,
+                "precio":39
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/leche_min.1594343198.1592979494",
+                "nombre_categoria":"Leche Natural",
+                "id":11,
+                "precio":43
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/1531_21_10_CHOCOLATE_RETOQUE_FOTO%20(1)_min.1633974151.jpg",
+                "nombre_categoria":"Leche con Chocolate",
+                "id":12,
+                "precio":59
+            },
+            {
+                "imagen":"https://menugrg.com.mx:7443/menudigital/Articulos/Malteadas_min_min.1594343228.1592582165",
+                "nombre_categoria":"Malteadas Clasicas",
+                "id":13,
+                "precio":59
+            }
+        ]
+    }
+]
