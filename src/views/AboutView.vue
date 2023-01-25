@@ -124,10 +124,11 @@ export default {
       popInfantil.value[verdad5] = !popInfantil.value[verdad5]
     }
 //----------------------------------------------------------------
+    //innerWidth < 399 || innerWidth < 499
     const valores=()=>{
-      if(innerWidth < 399 || innerWidth < 499){
+      if(window.innerWidth < 399 || window.innerWidth < 499){
         console.log("hola")
-        const resultado =2
+        const resultado =1.6
         return resultado
       }else{
         console.log('mundo')
@@ -312,6 +313,7 @@ export default {
   .contenedor{
     background-size: cover;
     .item1{
+      background-position-x: -20rem;
       .menu_del_dia{
         .img_menu_del_dia{
           width: 12rem;
@@ -321,6 +323,7 @@ export default {
       }
     }
     .item2{
+      background-position-x: -15rem;
       .desayunos{
         .img_desayunos{
           width: 10rem;
@@ -329,6 +332,7 @@ export default {
       }
     }
     .item3{
+      background-position-x: -13rem;
       .comidas{
         .img_comidas{
           width: 13rem;
@@ -338,6 +342,7 @@ export default {
       }
     }
     .item4{
+      background-position-x: -10rem;
       .cenas{
         .img_cenas{
           width: 13rem;
@@ -347,6 +352,7 @@ export default {
       }
     }
     .item5{
+      background-position-x: -13rem;
       .infantil{
         .img_infantil{
           width: 13rem;
@@ -356,47 +362,56 @@ export default {
       }
     }
   }
+  .carousel__item{
+    height: 42rem;
+    margin-top: 1rem;
+  }
 
 } 
 @media (min-width: 400px) and (max-width: 480px){
  .contenedor{
     background-size: cover;
     .item1{
+      background-position-x: -22rem;
       .menu_del_dia{
         .img_menu_del_dia{
-          width: 12rem;
-          height: 12rem;
+          width: 15rem;
+          height: 15rem;
           margin-top: -4rem;
         }
       }
     }
     .item2{
+      background-position-x: -13rem;
       .desayunos{
         .img_desayunos{
-          width: 10rem;
-          height: 4.5rem;
+          width: 15rem;
+          height: 5rem;
         }
       }
     }
     .item3{
+      background-position-x: -15rem;
       .comidas{
         .img_comidas{
-          width: 13rem;
-          height: 4.5rem;
+          width: 15rem;
+          height: 5rem;
           margin-left: .2rem;
         }
       }
     }
     .item4{
+      background-position-x: -15rem;
       .cenas{
         .img_cenas{
-          width: 13rem;
-          height: 4.5rem;
+          width: 15rem;
+          height: 5rem;
           margin-left: .2rem;
         }
       }
     }
     .item5{
+      background-position-x: -15rem;
       .infantil{
         .img_infantil{
           width: 13rem;
@@ -405,6 +420,10 @@ export default {
         }
       }
     }
+  }
+  .carousel__item{
+    height: 45rem;
+    margin-top: 1rem;
   }
 }
 @media(min-width: 374px) and (max-width: 376px){
@@ -455,14 +474,16 @@ export default {
       }
     }
   }
-
-
+  .carousel__item{
+    height: 34rem;
+    margin-top: 1rem;
+  }
 }
-
 @media(min-width: 359px) and (max-width: 361px){
    .contenedor{
     background-size: cover;
     .item1{
+      background-position-x: -15rem;
       .menu_del_dia{
         .img_menu_del_dia{
           width: 12rem;
@@ -472,6 +493,7 @@ export default {
       }
     }
     .item2{
+      background-position-x: -8rem;
       .desayunos{
         .img_desayunos{
           width: 10rem;
@@ -480,6 +502,7 @@ export default {
       }
     }
     .item3{
+      background-position-x: -8rem;
       .comidas{
         .img_comidas{
           width: 13rem;
@@ -489,6 +512,7 @@ export default {
       }
     }
     .item4{
+      background-position-x: -6rem;
       .cenas{
         .img_cenas{
           width: 13rem;
@@ -498,6 +522,7 @@ export default {
       }
     }
     .item5{
+      background-position-x: -13rem;
       .infantil{
         .img_infantil{
           width: 13rem;
@@ -507,6 +532,70 @@ export default {
       }
     }
   }
+  .carousel__item{
+    height: 34rem;
+    margin-top: 1rem;
+  }
+
+}
+@media(min-width: 374px) and (max-width:376px){
+.contenedor{
+    background-size: cover;
+    .item1{
+      background-position-x: -15rem;
+      .menu_del_dia{
+        .img_menu_del_dia{
+          width: 12rem;
+          height: 12rem;
+          margin-top: -4rem;
+        }
+      }
+    }
+    .item2{
+      background-position-x: -10rem;
+      .desayunos{
+        .img_desayunos{
+          width: 10rem;
+          height: 4.5rem;
+        }
+      }
+    }
+    .item3{
+      background-position-x: -10rem;
+      .comidas{
+        .img_comidas{
+          width: 13rem;
+          height: 4.5rem;
+          margin-left: .2rem;
+        }
+      }
+    }
+    .item4{
+      background-position-x: -8rem;
+      .cenas{
+        .img_cenas{
+          width: 13rem;
+          height: 4.5rem;
+          margin-left: .2rem;
+        }
+      }
+    }
+    .item5{
+      background-position-x: -10rem;
+      .infantil{
+        .img_infantil{
+          width: 13rem;
+          height: 4.5rem;
+          margin-left: .2rem;
+        }
+      }
+    }
+  }
+  .carousel__item{
+    height: 34rem;
+    margin-top: 1rem;
+  }
+
 
 }
 </style>
